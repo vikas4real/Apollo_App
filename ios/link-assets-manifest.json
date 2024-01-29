@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/apollodental.png",
+      "sha1": "7b2d9ae2591efc9048072dabb3b22d29cf72799d"
+    },
+    {
+      "path": "src/assets/apollohealthcare.png",
+      "sha1": "12951ecba21f13b190a51e97be3e99ca0128ba0c"
+    },
+    {
+      "path": "src/assets/doctor.png",
+      "sha1": "8c87057088af3d6dbf5cc3d3732effbf0e4c6774"
+    },
+    {
+      "path": "src/assets/hospital.png",
+      "sha1": "5970c690870064344d8ff7c8d73687f3f7d15dc9"
+    },
+    {
+      "path": "src/assets/medicine.png",
+      "sha1": "e44a8f6e7f6abc676b96bf8751df666120da2ecd"
+    },
+    {
+      "path": "src/assets/microscope.png",
+      "sha1": "2e463c61b22bcc164b567d18172d814bd185b679"
+    },
+    {
+      "path": "src/assets/orders.png",
+      "sha1": "30e2603c56273f059485a32b4c66dfe2ed0b9963"
+    },
+    {
+      "path": "src/assets/prescription.png",
+      "sha1": "0b1e8349e64b2f23b94a96bf85a21541837e326e"
+    },
+    {
+      "path": "src/assets/ribbonleft.png",
+      "sha1": "777d7199fddec2096d559ad110cc1b6a5830650a"
+    },
+    {
+      "path": "src/assets/ribbonright.png",
+      "sha1": "b276cf48fb4a8697e1cbee4780166d4740766826"
+    }
+  ]
+}

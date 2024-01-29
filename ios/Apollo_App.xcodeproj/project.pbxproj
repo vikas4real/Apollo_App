@@ -14,6 +14,16 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Apollo_App-Apollo_AppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Apollo_App-Apollo_AppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		22D2507AEDF5453DA38D87C1 /* apollodental.png in Resources */ = {isa = PBXBuildFile; fileRef = 871D58AE761C4B1B9EAA8228 /* apollodental.png */; };
+		5864867D1DE04F40BF49DDC8 /* apollohealthcare.png in Resources */ = {isa = PBXBuildFile; fileRef = A5E4E14B82A24CADBD1EA4BB /* apollohealthcare.png */; };
+		86F1A75CC0F04BC79108F303 /* doctor.png in Resources */ = {isa = PBXBuildFile; fileRef = DD34CFA4C23C4304831F24E9 /* doctor.png */; };
+		AB51E23BD2A9436CB20D1785 /* hospital.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C5AFF03D2544DD1BD946854 /* hospital.png */; };
+		0E9CFF7F1384464BB9A8CE76 /* medicine.png in Resources */ = {isa = PBXBuildFile; fileRef = B2FDAE1E1A374BD2B71C60C7 /* medicine.png */; };
+		A5A8A028F69F4D8D9E572755 /* microscope.png in Resources */ = {isa = PBXBuildFile; fileRef = 425966C883BA4FC194171E82 /* microscope.png */; };
+		1D48A7FAA355409B95B45CF5 /* orders.png in Resources */ = {isa = PBXBuildFile; fileRef = EC1FA591F0354C69ADBEA744 /* orders.png */; };
+		CD876DE85BF84152BC672664 /* prescription.png in Resources */ = {isa = PBXBuildFile; fileRef = 3D79C34AF8F14C1B88DA6B38 /* prescription.png */; };
+		B40E9C7AF92E459C983D0A4E /* ribbonleft.png in Resources */ = {isa = PBXBuildFile; fileRef = 56946C3A2D07424CBF061A56 /* ribbonleft.png */; };
+		C6E03D9512A24951B65754D2 /* ribbonright.png in Resources */ = {isa = PBXBuildFile; fileRef = C4A9DA26656040FDAD51E886 /* ribbonright.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +54,16 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Apollo_App/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Apollo_App-Apollo_AppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Apollo_App-Apollo_AppTests.release.xcconfig"; path = "Target Support Files/Pods-Apollo_App-Apollo_AppTests/Pods-Apollo_App-Apollo_AppTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		871D58AE761C4B1B9EAA8228 /* apollodental.png */ = {isa = PBXFileReference; name = "apollodental.png"; path = "../src/assets/apollodental.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A5E4E14B82A24CADBD1EA4BB /* apollohealthcare.png */ = {isa = PBXFileReference; name = "apollohealthcare.png"; path = "../src/assets/apollohealthcare.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DD34CFA4C23C4304831F24E9 /* doctor.png */ = {isa = PBXFileReference; name = "doctor.png"; path = "../src/assets/doctor.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9C5AFF03D2544DD1BD946854 /* hospital.png */ = {isa = PBXFileReference; name = "hospital.png"; path = "../src/assets/hospital.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		B2FDAE1E1A374BD2B71C60C7 /* medicine.png */ = {isa = PBXFileReference; name = "medicine.png"; path = "../src/assets/medicine.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		425966C883BA4FC194171E82 /* microscope.png */ = {isa = PBXFileReference; name = "microscope.png"; path = "../src/assets/microscope.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EC1FA591F0354C69ADBEA744 /* orders.png */ = {isa = PBXFileReference; name = "orders.png"; path = "../src/assets/orders.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3D79C34AF8F14C1B88DA6B38 /* prescription.png */ = {isa = PBXFileReference; name = "prescription.png"; path = "../src/assets/prescription.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		56946C3A2D07424CBF061A56 /* ribbonleft.png */ = {isa = PBXFileReference; name = "ribbonleft.png"; path = "../src/assets/ribbonleft.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C4A9DA26656040FDAD51E886 /* ribbonright.png */ = {isa = PBXFileReference; name = "ribbonright.png"; path = "../src/assets/ribbonright.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +142,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				1ABD9B717CED474F9D207B74 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +168,24 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		1ABD9B717CED474F9D207B74 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				871D58AE761C4B1B9EAA8228 /* apollodental.png */,
+				A5E4E14B82A24CADBD1EA4BB /* apollohealthcare.png */,
+				DD34CFA4C23C4304831F24E9 /* doctor.png */,
+				9C5AFF03D2544DD1BD946854 /* hospital.png */,
+				B2FDAE1E1A374BD2B71C60C7 /* medicine.png */,
+				425966C883BA4FC194171E82 /* microscope.png */,
+				EC1FA591F0354C69ADBEA744 /* orders.png */,
+				3D79C34AF8F14C1B88DA6B38 /* prescription.png */,
+				56946C3A2D07424CBF061A56 /* ribbonleft.png */,
+				C4A9DA26656040FDAD51E886 /* ribbonright.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +282,16 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				22D2507AEDF5453DA38D87C1 /* apollodental.png in Resources */,
+				5864867D1DE04F40BF49DDC8 /* apollohealthcare.png in Resources */,
+				86F1A75CC0F04BC79108F303 /* doctor.png in Resources */,
+				AB51E23BD2A9436CB20D1785 /* hospital.png in Resources */,
+				0E9CFF7F1384464BB9A8CE76 /* medicine.png in Resources */,
+				A5A8A028F69F4D8D9E572755 /* microscope.png in Resources */,
+				1D48A7FAA355409B95B45CF5 /* orders.png in Resources */,
+				CD876DE85BF84152BC672664 /* prescription.png in Resources */,
+				B40E9C7AF92E459C983D0A4E /* ribbonleft.png in Resources */,
+				C6E03D9512A24951B65754D2 /* ribbonright.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
